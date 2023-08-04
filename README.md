@@ -58,3 +58,16 @@ The authors express their gratitude to **Dr. Marwan Al Torki**, teaching assista
 Figure 1: Distribution of Answer Types.
 
 
+**Some sample run of the Test data**
+
+![image](https://github.com/Anasemad76/Visual-Question-Answering/assets/78288079/9d8bf5b7-2ee7-46d1-9725-67a4207276e1)
+
+![image](https://github.com/Anasemad76/Visual-Question-Answering/assets/78288079/e184fcc9-e07f-4fa9-9f5a-06481bbc87f5)
+
+![image](https://github.com/Anasemad76/Visual-Question-Answering/assets/78288079/66fdbf2b-a52a-43cc-8696-a99c02c606fc)
+
+![image](https://github.com/Anasemad76/Visual-Question-Answering/assets/78288079/cdfcb1ad-0fea-44f4-b638-f31c1940e4e5)
+
+
+
+
