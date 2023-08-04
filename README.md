@@ -1,7 +1,7 @@
 
 # Visual Question Answering 
 
-Team members: AnasEmad:7048, MohabAyman:7127, MazenGhanem:6896
+Team members: Anas Emad:7048, Mohab Ayman:7127, Mazen Ghanem:6896
 
 Date: June25,2023
 
